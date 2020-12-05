@@ -40,6 +40,8 @@ h2 {
     width: 75%; 
 }
 
+
+/* Moving the contact info section with padding and margine to get the exact "ballpark" of activity example*/
 .contact-info {
     margin-left: 75%;
     width: 50%;
@@ -48,6 +50,8 @@ h2 {
     padding-top: 1px;
 }
 
+
+/* Colored all Links on the page red, which are represented by 'a' */
 a {
     color:red;
   }
